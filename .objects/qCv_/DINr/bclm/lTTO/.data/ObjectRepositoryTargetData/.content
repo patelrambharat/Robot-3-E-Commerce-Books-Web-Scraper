@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yado8D9Dm0Go7ZeOMrxXDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="books.toscrape.com/catalogue/tipping-the-velvet_999/index.html" CVScreenId="510b12a4-d1f0-4722-9b44-4db901b5eeae" DesignTimeRectangle="982, 464, 859, 58" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' parentclass='col-sm-6 product_main' /&gt;" Guid="97a6ad9a-b9de-4886-8ccc-a297a39e21a7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*| Books to Scrape - Sandbox' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="2a7f89a14b1551887c1613a01219b76b.png" xmlns="">02uG4KE9du0GxOJZPPxNZNA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
