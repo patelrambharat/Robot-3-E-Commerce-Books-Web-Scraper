@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Availability",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "0B6fOVOXsUO8BshwvaG9jQ",
+  "Reference": "Gy2a_G6hhkq0YUMw-KGMHQ/0B6fOVOXsUO8BshwvaG9jQ",
+  "ParentRef": "Gy2a_G6hhkq0YUMw-KGMHQ/NPxW4NwjOku1qjYM_lQrag",
+  "Created": "2026-04-03T06:44:12.4797569Z",
+  "Updated": "2026-04-03T06:44:12.4797569Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

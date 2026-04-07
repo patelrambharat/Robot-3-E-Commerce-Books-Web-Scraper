@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Books",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PjOAHpYX3E2S332MQtFayg",
+  "Reference": "Gy2a_G6hhkq0YUMw-KGMHQ/PjOAHpYX3E2S332MQtFayg",
+  "ParentRef": "Gy2a_G6hhkq0YUMw-KGMHQ/wLFyOxXeIEGicTKYM6JVaQ",
+  "Created": "2026-04-07T04:20:16.6752847Z",
+  "Updated": "2026-04-07T04:20:16.6752847Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
